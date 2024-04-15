@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = caron.amelie94@gmail.com
+	name = Amelie Caron
